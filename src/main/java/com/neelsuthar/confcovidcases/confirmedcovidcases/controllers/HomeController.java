@@ -1,9 +1,6 @@
 package com.neelsuthar.confcovidcases.confirmedcovidcases.controllers;
 
-import java.text.NumberFormat;
-import java.text.ParseException;
 import java.util.List;
-import java.util.Locale;
 
 import com.neelsuthar.confcovidcases.confirmedcovidcases.models.CovidStats;
 import com.neelsuthar.confcovidcases.confirmedcovidcases.services.CovidDataService;
